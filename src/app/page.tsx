@@ -15,10 +15,10 @@ export default function Home() {
         <img src={arro.src}/>
       </section>
       <section className="peekaboo" style={{backgroundImage: "url(" + who.src + ")"}}>
-        <Link href='projects/first-zine'><img src={first.src}/></Link>
+        <Link href='projects/peekaboo-zine'><img src={peekaboo.src}/></Link>
       </section>
       <section className="first" style={{backgroundImage: "url(" + teeth.src + ")"}}>
-        <Link href='#'><img src={peekaboo.src}/></Link>
+        <Link href='projects/first-zine'><img src={first.src}/></Link>
       </section>
     </>
   );

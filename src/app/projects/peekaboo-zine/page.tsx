@@ -3,17 +3,17 @@
 import React from "react";
 import Link from "next/link";
 import HTMLFlipBook from "react-pageflip";
-import Cover from "@/app/images/first-zine.jpg";
-import PageOne from "@/app/images/first-zine-1.jpg";
-import PageTwo from "@/app/images/first-zine-2.jpg";
-import PageThree from "@/app/images/first-zine-3.jpg";
-import PageFour from "@/app/images/first-zine-4.jpg";
-import PageFive from "@/app/images/first-zine-5.jpg";
-import PageSix from "@/app/images/first-zine-6.jpg";
-import PageSeven from "@/app/images/first-zine-7.jpg";
+import Cover from "@/app/images/peekaboo-zine.jpg";
+import PageOne from "@/app/images/peekaboo-zine-1.jpg";
+import PageTwo from "@/app/images/peekaboo-zine-2.jpg";
+import PageThree from "@/app/images/peekaboo-zine-3.jpg";
+import PageFour from "@/app/images/peekaboo-zine-4.jpg";
+import PageFive from "@/app/images/peekaboo-zine-5.jpg";
+import PageSix from "@/app/images/peekaboo-zine-6.jpg";
+import PageSeven from "@/app/images/peekaboo-zine-7.jpg";
 
 
-function First() {
+function Peekaboo() {
 
 
   return (
@@ -66,4 +66,4 @@ function First() {
   );
 }
 
-export default First;
+export default Peekaboo;

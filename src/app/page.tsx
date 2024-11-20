@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import hero from "@/app/images/hero-black.jpg";
 import who from "@/app/images/who.jpg";
 import teeth from "@/app/images/teeth.jpg";
